@@ -3,8 +3,7 @@ public class gitHubSecondClass {
 
         System.out.println("my second class");
 
-
-
+        System.out.println("more practice ");
 
 
     }
