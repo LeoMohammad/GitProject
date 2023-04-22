@@ -3,5 +3,7 @@ public class GitHubClass {
 
         System.out.println("Hello gitHub");
 
+        System.out.println("my second commit ");
+
     }
 }
